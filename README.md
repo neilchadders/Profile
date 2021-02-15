@@ -1,31 +1,19 @@
 ## Welcome to My GitHub Profile
 
-I am a Web Developer based in Leeds who is keen to learn and open to new challenges.
-### Markdown
+I am a Web Developer based in Leeds who is keen to learn and open to new challenges. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to get in touch!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Current Projects
 
-- Bulleted
-- List
+1. Personal Homepage using HTML,CSS Grid and Bootstrap
+2. Exercise countdown using DOM manipulation
+3. Currently working on an ecommerce site for a band
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 
 
