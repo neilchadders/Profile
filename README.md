@@ -2,7 +2,7 @@
 
 I am a Web Developer based in Leeds who is keen to learn and open to new challenges. 
 
-Feel free to get in touch!
+Feel free to get in touch.
 
 
 ### Current Projects
